@@ -237,7 +237,7 @@ public final class ItemsSetup {
             new ItemStack[]{
                 null, new ItemStack(Material.BONE_BLOCK, 64), null,
                 null, new ItemStack(Material.BONE_BLOCK, 64), null,
-                null, SlimefunItems.GRANDMAS_WALKING_STICK, null
+                null, SlimefunItems.BULLY_STICK, null
             }
         ).register(plugin);
 
